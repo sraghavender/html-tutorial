@@ -1,0 +1,18 @@
+
+    body
+     {
+        background-color:beige;
+    }
+    h1
+     {
+        background-color:rgb(43, 162, 226);
+         color:aqua;
+    }
+    p {
+        color:brown;
+        font-size: large;
+    }
+    
+    h2 {
+        font-size:45px;
+    }

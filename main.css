@@ -1,0 +1,11 @@
+h2 {
+    text-align: center;
+}
+p {
+    color:blue;
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px solid powderblue;
+    padding: 20px;
+    margin: 30px;
+    
+}
